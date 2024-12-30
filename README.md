@@ -17,7 +17,7 @@ I specialize in:
 - Documenting complex research projects
 
 ## Profile Image
-![Profile Image Placeholder](https://via.placeholder.com/150 "Profile Image")
+![Profile Image Placeholder](IMG_3076.jpeg)
 
 ---
 
